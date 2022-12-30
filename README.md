@@ -5,6 +5,6 @@ In this project, we will build a recurrent neural network to classify a SMS text
     
 1. Clean and process text data for machine learning.
 2. Understand and implement a character-level recurrent neural network.
-3. Use torchtext to build recurrent neural network models.
+3. Use torchtext to build recurrent neural network models. (LSTM model)
 4. Understand batching for a recurrent neural network, and use torchtext to implement RNN batching.
 5. Understand how transfer learning can be applied to NLP projects.
